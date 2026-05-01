@@ -1,0 +1,18 @@
+# Jekyll configuration for GitHub Pages
+theme: minima
+title: Sajeeraa's Portfolio & Blog
+description: Learning in public. Technical writing on cybersecurity.
+url: "https://sajeeraa-nave.github.io"
+github_username: sajeeraa-nave
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /blog/:year/:month/:day/:slug/
