@@ -3,8 +3,18 @@ layout: single
 author_profile: true
 ---
 
-Welcome to my cybersecurity portfolio.
+# Computer Systems & Networking Portfolio
 
-I’m building hands-on enterprise labs covering Active Directory, SIEM, and detection workflows.
+Hands-on lab work focused on networking, system administration, and security fundamentals.
 
-More projects coming soon.
+Currently building enterprise-style environments using Active Directory, virtualization, and network segmentation.
+
+## Projects
+- Active Directory Home Lab (In Progress)
+- SIEM Detection Lab (Coming Soon)
+
+## About
+Computer Systems & Networking student at Seneca building real-world lab environments.
+
+## Links
+- GitHub: https://github.com/sajeeraa-nave
