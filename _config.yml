@@ -1,22 +1,19 @@
-# Jekyll configuration for GitHub Pages
+title: "Sajeeraa Nave"
+name: "Sajeeraa Nave"
+description: "Cybersecurity student building hands-on enterprise labs"
 
-title: "Sajeeraa's Portfolio & Blog"
-description: Learning in public. Technical writing on cybersecurity.
 url: "https://sajeeraa-nave.github.io"
 baseurl: ""
 
 remote_theme: mmistakes/minimal-mistakes
-
-# Build settings
-markdown: kramdown
 
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
 
-# Collections
-collections:
-  posts:
-    output: true
-    permalink: /blog/:year/:month/:day/:slug/
+markdown: kramdown
+
+author:
+  name: "Sajeeraa Nave"
+  bio: "Cybersecurity student focused on Active Directory, SIEM, and real-world lab environments"
