@@ -1,9 +1,11 @@
 # Jekyll configuration for GitHub Pages
-remote_theme: mmistakes/minimal-mistakes
-title: Sajeeraa's Portfolio & Blog
+
+title: "Sajeeraa's Portfolio & Blog"
 description: Learning in public. Technical writing on cybersecurity.
 url: "https://sajeeraa-nave.github.io"
 baseurl: ""
+
+remote_theme: mmistakes/minimal-mistakes
 
 # Build settings
 markdown: kramdown
