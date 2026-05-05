@@ -3,10 +3,13 @@ remote_theme: mmistakes/minimal-mistakes
 title: Sajeeraa's Portfolio & Blog
 description: Learning in public. Technical writing on cybersecurity.
 url: "https://sajeeraa-nave.github.io"
+baseurl: ""
 
 # Build settings
 markdown: kramdown
+
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
 
