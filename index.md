@@ -3,8 +3,8 @@ layout: home
 author_profile: true
 ---
 
-# Welcome to my portfolio
+Welcome to my cybersecurity portfolio.
 
-I'm Sajeeraa. This is where I write about cybersecurity, networking, and what I'm learning.
+I’m building hands-on enterprise labs covering Active Directory, SIEM, and detection workflows.
 
 More projects coming soon.
