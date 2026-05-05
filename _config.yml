@@ -18,8 +18,7 @@ markdown: kramdown
 author:
   name: "Sajeeraa Nave"
   bio: "Cybersecurity student focused on Active Directory, SIEM, and real-world lab environments"
-
-include_cached: false
+  avatar: "/assets/images/profile.jpg"
 
 liquid:
   error_mode:warn
