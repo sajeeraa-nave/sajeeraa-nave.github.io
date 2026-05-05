@@ -1,24 +1,18 @@
-title: "Sajeeraa Nave"
-name: "Sajeeraa Nave"
-description: "Cybersecurity student building hands-on enterprise labs"
-
+# Jekyll configuration for GitHub Pages
+theme: minima
+title: Sajeeraa's Portfolio & Blog
+description: Learning in public. Technical writing on cybersecurity.
 url: "https://sajeeraa-nave.github.io"
-baseurl: ""
+github_username: sajeeraa-nave
 
-remote_theme: mmistakes/minimal-mistakes@4.24.0
-
-plugins:
-- jekyll-remote-theme
-- jekyll-feed
-- jekyll-seo-tag
-- jekyll-include-cache
-
+# Build settings
 markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
-author:
-  name: "Sajeeraa Nave"
-  bio: "Cybersecurity student focused on Active Directory, SIEM, and real-world lab environments"
-  avatar: "/assets/images/profile.jpg"
-
-liquid:
-  error_mode:warn
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /blog/:year/:month/:day/:slug/
