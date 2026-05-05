@@ -16,3 +16,8 @@ collections:
   posts:
     output: true
     permalink: /blog/:year/:month/:day/:slug/
+
+header_pages:
+  - about.md
+  - projects.md
+  - blog.md
