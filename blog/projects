@@ -1,0 +1,22 @@
+---
+layout: page
+title: Projects
+---
+
+## Active Directory Home Lab
+
+Simulated enterprise environment using Windows Server, Active Directory, and segmented networks.
+
+- Status: In progress
+- Environment:
+  - VMware (192.168.100.0/24)
+  - Proxmox (192.168.50.0/24)
+
+Full project:
+https://github.com/sajeeraa-nave/homelab
+
+---
+
+## SIEM Detection Lab (Coming Soon)
+
+Planned lab focused on attack → detect → respond workflows using log data.
